@@ -69,7 +69,7 @@ export const Home = () => {
               />
             ))}
           </div>
-          <h1 className="text-3xl text-center sm:text-start mt-5">
+          <h1 className="text-3xl text-center sm:text-start mt-10">
             Tecnologias e habilidades adicionais
           </h1>
           <div className="mt-5 flex flex-col items-center justify-center">
