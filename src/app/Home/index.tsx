@@ -85,7 +85,7 @@ export const Home = () => {
             </ul>
             <ul className="max-w-2/4 list-disc flex flex-col sm:flex-row sm:space-x-20">
               <li>GraphQL</li>
-              <li>Material UI</li>
+              <li>Jquery</li>
               <li>SQLite</li>
             </ul>
           </div>
