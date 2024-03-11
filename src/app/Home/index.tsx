@@ -81,7 +81,7 @@ export const Home = () => {
             <ul className="max-w-2/4 list-disc flex flex-col sm:flex-row sm:space-x-20">
               <li>Next.js</li>
               <li>Figma</li>
-              <li>Tailwind</li>
+              <li>Saas</li>
             </ul>
             <ul className="max-w-2/4 list-disc flex flex-col sm:flex-row sm:space-x-20">
               <li>GraphQL</li>
