@@ -34,6 +34,18 @@ export const tecnologies: TecnologiesDTO[] = [
     progress: 20,
   },
   {
+    title: "ExpressJS",
+    progress: 20,
+  },
+  {
+    title: "MySQL",
+    progress: 20,
+  },
+  {
+    title: "Docker",
+    progress: 20,
+  },
+  {
     title: "Flutter",
     progress: 18,
   },

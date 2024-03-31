@@ -21,6 +21,20 @@ export const projects: projectsDTO[] = [
     link: "https://www.lellocondominios.com.br/resolva-facil/",
   },
   {
+    srcImage: "/portalSindico.png",
+    title: "Portal do Síndico",
+    description:
+      "Um portal para que os síndicos da lello tenha acesso a diversas soluções para facilitar o seu dia a dia.",
+    link: "https://clientes.lellocondominios.com.br/",
+  },
+  {
+    srcImage: "/api-recipe.jpg",
+    title: "API Recype",
+    description:
+      "Api para servir ao meu projeto mobile com um CRUD de receitas, usando node, express.js, mySQL e docker.",
+    link: "https://github.com/henriquenobre/api-recypes",
+  },
+  {
     srcImage: "/productPage.png",
     title: "Aulas de Yoga",
     description: "Landing Page para vendas de aulas de yoga",
@@ -32,13 +46,6 @@ export const projects: projectsDTO[] = [
     description:
       "Uma aplicação web front-end que mostre os Resultados das Loterias.",
     link: "https://loto-brainn-lazaro1.vercel.app/",
-  },
-  {
-    srcImage: "/portalSindico.png",
-    title: "Portal do Síndico",
-    description:
-      "Um portal para que os síndicos da lello tenha acesso a diversas soluções para facilitar o seu dia a dia.",
-    link: "https://clientes.lellocondominios.com.br/",
   },
   {
     srcImage: "/randomQuote.png",
